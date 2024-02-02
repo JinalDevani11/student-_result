@@ -1,0 +1,48 @@
+
+.App{
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  margin-top: 30px;
+
+}
+table{
+  text-align: center !important;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+tr{
+  text-transform: capitalize;
+}
+
+.heading > th{
+  padding: 3px 5px;
+}
+.subject{
+  margin-bottom: 20px;
+  border: 1px solid white;
+
+}
+.subject>span{
+    display: block;
+}
+.subject>span>input{
+  margin-left: 10px;
+}
+.allbtn{
+  margin-top: 20px;
+}
+.allbtn > button{
+  margin: 0px 5px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border-color: white !important;
+}
+.allbtn> select{
+  margin: 0px 5px;
+  padding: 5px 10px;
+  background-color:#E5E5E5 !important; 
+  border-radius: 5px;
+  border: none !important;
+
+}
